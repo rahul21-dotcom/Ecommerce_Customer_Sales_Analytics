@@ -1,0 +1,19 @@
+Column,Description
+Order_ID,Unique order identifier
+Customer_ID,Unique customer identifier
+Customer_Name,Customer name
+Gender,Customer gender
+Age,Customer age
+City,Customer city
+State,Customer state
+Product,Product purchased
+Category,Main product category
+Sub_Category,Product sub-category
+Quantity,Number of units purchased
+Unit_Price,Price per unit in INR
+Discount,Discount percentage
+Order_Date,Date on which order was placed
+Delivery_Date,Date on which order was delivered; blank for non-delivered orders
+Payment_Mode,Payment method
+Order_Status,Current order status
+Rating,Customer rating from 1 to 5
